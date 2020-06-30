@@ -1,0 +1,1 @@
+Validação de email que só aceita email dos provedores GMAIL, HOTMAIL e OUTLOOK
